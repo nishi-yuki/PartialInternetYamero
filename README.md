@@ -1,0 +1,2 @@
+# PartialInternetYamero
+インターネットを部分的にやめる
